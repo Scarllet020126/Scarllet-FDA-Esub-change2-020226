@@ -1,0 +1,167 @@
+{
+  "basic_data": {
+    "fill_date": "2026-02-01",
+    "received_date": "2026-02-02",
+    "device_type": "體外診斷器材(IVD)",
+    "case_category": "新案",
+    "case_type": "許可證變更",
+    "license_scope": "許可證號",
+    "license_number": "衛署醫器製字 第 003404 號",
+    "device_name_zh": "欣活語音血糖測試儀",
+    "device_name_en": "GlucoSure VIVO Blood Glucose Meter",
+    "risk_class": "第二等級",
+    "origin": "國產",
+    "has_similar_products": "有",
+    "substitution": "否",
+    "change_reason": "本次變更涉及中文/英文品名與標籤/說明書更新，並修訂部分規格文字敘述；產品技術原理不變。"
+  },
+  "classifications": [
+    {
+      "main_category": "A.臨床化學及臨床毒理學",
+      "sub_category_code": "A.1345",
+      "sub_category_name": "葡萄糖試驗系統"
+    },
+    {
+      "main_category": "J.一般醫院及個人使用裝置",
+      "sub_category_code": "J.9999",
+      "sub_category_name": "其他（自我監測用血糖測試儀）"
+    }
+  ],
+  "change_items": [
+    {
+      "change_item": "中文品名",
+      "original_approval": "欣活語音血糖測試儀",
+      "requested_change": "欣活語音血糖測試儀（新版包裝）"
+    },
+    {
+      "change_item": "英文品名",
+      "original_approval": "GlucoSure VIVO Blood Glucose Meter",
+      "requested_change": "GlucoSure VIVO Voice Blood Glucose Meter"
+    }
+  ],
+  "applicant": {
+    "company_uniform_no": "16130182",
+    "company_name": "五鼎生物技術股份有限公司",
+    "company_address": "新竹市東區新竹科學工業園區力行五路 7 號",
+    "responsible_person": "沈燕士",
+    "contact_person": "黃蓓音",
+    "contact_phone": "03-5641952 分機：507",
+    "contact_email": "alishahuang@apexbio.com",
+    "previous_values": {
+      "company_uniform_no": "16130182",
+      "company_name": "五鼎生物技術股份有限公司",
+      "company_address": "新竹市東區新竹科學工業園區力行五路 7 號",
+      "responsible_person": "沈燕士"
+    }
+  },
+  "attachments": [
+    {
+      "section_id": "1",
+      "section_title": "一、醫療器材許可證變更登記申請書",
+      "applicability": "適用",
+      "notes": "已準備",
+      "files": [
+        { "file_name": "變更登記申請書.pdf", "status": "有效" }
+      ]
+    }
+  ]
+}
+{
+  "basic_data": {
+    "fill_date": "2026-01-20",
+    "received_date": "2026-01-22",
+    "device_type": "一般醫材",
+    "case_category": "新案",
+    "case_type": "查驗登記新案",
+    "license_scope": "分類分級品項",
+    "license_number": "",
+    "device_name_zh": "鈦合金椎體間融合器",
+    "device_name_en": "Titanium Interbody Fusion Cage",
+    "risk_class": "第三等級",
+    "origin": "輸入",
+    "has_similar_products": "有",
+    "substitution": "否",
+    "change_reason": "不適用（新案）"
+  },
+  "classifications": [
+    {
+      "main_category": "N.骨科學",
+      "sub_category_code": "N.9999",
+      "sub_category_name": "其他（脊椎植入物）"
+    }
+  ],
+  "change_items": [],
+  "applicant": {
+    "company_uniform_no": "24567890",
+    "company_name": "海岳醫材股份有限公司",
+    "company_address": "台北市內湖區瑞光路 88 號 10F",
+    "responsible_person": "林俊傑",
+    "contact_person": "張雅雯",
+    "contact_phone": "02-8797-0000 分機 312",
+    "contact_email": "regulatory@seamount-med.com",
+    "previous_values": {}
+  },
+  "attachments": [
+    {
+      "section_id": "11",
+      "section_title": "十一、標籤、說明書或包裝擬稿",
+      "applicability": "適用",
+      "notes": "含中文標籤、UDI、使用方式與禁忌",
+      "files": [
+        { "file_name": "中文說明書_v1.pdf", "status": "有效" }
+      ]
+    }
+  ]
+}
+{
+  "basic_data": {
+    "fill_date": "2026-01-10",
+    "received_date": "2026-01-12",
+    "device_type": "一般醫材",
+    "case_category": "申復",
+    "case_type": "許可證變更",
+    "license_scope": "許可證號",
+    "license_number": "衛部醫器製字第 009999 號",
+    "device_name_zh": "居家連網血壓量測系統",
+    "device_name_en": "Home Connected Blood Pressure Monitoring System",
+    "risk_class": "第二等級",
+    "origin": "國產",
+    "has_similar_products": "有",
+    "substitution": "否",
+    "change_reason": "本次變更新增行動 App 之資安機制（帳號鎖定/加密傳輸）及修訂說明書資安警語；量測硬體不變。"
+  },
+  "classifications": [
+    {
+      "main_category": "J.一般醫院及個人使用裝置",
+      "sub_category_code": "J.9999",
+      "sub_category_name": "其他（居家量測/遠距傳輸）"
+    }
+  ],
+  "change_items": [
+    {
+      "change_item": "原廠標籤、說明書或包裝",
+      "original_approval": "說明書 v1.0",
+      "requested_change": "說明書 v1.1（新增資安警語與帳號管理說明）"
+    },
+    {
+      "change_item": "成分、材料、結構、規格或型號變更（涉及安全及效能評估）",
+      "original_approval": "App 未提供帳號鎖定",
+      "requested_change": "App 新增帳號鎖定與TLS傳輸，新增資安測試摘要"
+    }
+  ],
+  "applicant": {
+    "company_uniform_no": "11223344",
+    "company_name": "康雲智慧醫療股份有限公司",
+    "company_address": "台中市西屯區市政北二路 66 號 8F",
+    "responsible_person": "許文豪",
+    "contact_person": "陳怡君",
+    "contact_phone": "04-2258-1234 分機 206",
+    "contact_email": "qa-ra@healthcloud.tw",
+    "previous_values": {
+      "company_uniform_no": "11223344",
+      "company_name": "康雲智慧醫療股份有限公司",
+      "company_address": "台中市西屯區市政北二路 66 號 8F",
+      "responsible_person": "許文豪"
+    }
+  }
+}
